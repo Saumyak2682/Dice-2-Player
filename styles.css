@@ -1,0 +1,39 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+}
+
+body {
+  background: linear-gradient(to bottom, #87CEEB, #FFDAB9); /* Gradient from sky blue to sandy peach */
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Arial', sans-serif; /* Clean sans-serif font */
+  text-shadow: 3px 3px #4682B4; /* Shadow in deep ocean blue */
+  font-size: 8rem;
+  color: #FFD700; /* Golden yellow for a sunny feel */
+}
+
+p {
+  font-size: 2rem;
+  color: #FF7F50; /* Coral color for a vibrant touch */
+  font-family: 'Arial', sans-serif; /* Clean sans-serif font */
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #2E8B57; /* Sea green for a relaxing vibe */
+  text-align: center;
+  font-family: 'Arial', sans-serif; /* Clean sans-serif font */
+}
